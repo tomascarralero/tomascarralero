@@ -1,6 +1,6 @@
 ## Hola, soy Tomás Carralero
 
-### Java Backend developer 👨🏻‍💻
+### Sachador do código 👨🏻‍🌾💻
 
 Tras un periodo de autoformación y actualización de un año y medio estoy retomando mi orientación al desarrollo Backend con Java+Spring, mientras cultivo en mis ratos libres el interés por los stacks Frontend, el Diseño Gráfico y el Marketing. <br>
 
