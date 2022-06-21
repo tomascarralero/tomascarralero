@@ -56,7 +56,7 @@ Tras un periodo de autoformación retomé mi orientación al desarrollo Backend 
 
 ### 👨🏻‍💻 &nbsp;Experiencia
 
-He trabajado durante 13 años en una consultoria informática, en la que tras desempeñar varias funciones en distintos proyectos decidí centrarme en desarrollar mi perfil como desarrollador backend con Java (4 años de experiencia laboral) y el Framework Spring (1 de experiencia laboral con Spring Boot).<br>
+He trabajado durante 13 años en una consultoria informática, en la que tras desempeñar varias funciones en distintos proyectos decidí centrarme en desarrollar mi perfil como desarrollador backend con Java (2 años de experiencia laboral) y el Framework Spring (1 de experiencia laboral con Spring Boot).<br>
 
 Estos son algunos de los proyectos en los que he trabajado:
 
