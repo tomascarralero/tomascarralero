@@ -2,7 +2,7 @@
 
 ### Sachador do código 👨🏻‍🌾💻
 
-Tras un periodo de autoformación y actualización de un año y medio estoy retomando mi orientación al desarrollo Backend con Java+Spring, mientras cultivo en mis ratos libres el interés por los stacks Frontend, el Diseño Gráfico y el Marketing. <br>
+Tras un periodo de autoformación retomé mi orientación al desarrollo Backend con Java+Spring, mientras cultivo en mis ratos libres el interés por los stacks Frontend, el Diseño Gráfico y el Marketing. <br>
 
 > Siempre que tengo oportunidad trato de contribuir a la divulgación de la ciencia, el escepticismo y el pensamiento crítico porque creo que son importantes para construir un futuro mejor.
 
@@ -65,6 +65,7 @@ Estos son algunos de los proyectos en los que he trabajado:
 * SCADA para la central eléctrica del aeropuerto de Santander (AENA)
 * App de GTAXI (IAM Informática del Ayuntamiento de Madrid)
 * Proyecto solidario para la gestión del almacén de Juegaterapia (Getronics Iberia)
+* Proyecto Cividas (Imatia Innovation)
 
 ### 🚀 &nbsp;Aficiones
 
